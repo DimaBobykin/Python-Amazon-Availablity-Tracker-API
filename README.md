@@ -12,4 +12,4 @@ How to use:
 Add: `from AmazonTracker import ProductCheck`
 
 
-Then: Call `ProductCheck(url goes here)`
+Then: Call `ProductCheck(URL Goes Here)`
