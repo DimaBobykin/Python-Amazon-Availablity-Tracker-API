@@ -12,4 +12,4 @@ def ProductCheck(url):
     
 if __name__ == "__main__":
     inputVar = input()
-    ProductCheck(inputVar)
+    print(ProductCheck(inputVar))
